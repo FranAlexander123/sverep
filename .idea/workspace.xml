@@ -2,8 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b188b1ae-e101-422c-bffa-0e07586d2771" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/SVE.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SVE.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SVE/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/SVE/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SVE/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/SVE/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/Enfermedades/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/Homepage/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/Homepage/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/Homepage/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/Homepage/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/Homepage/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/Homepage/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/Homepage/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/Homepage/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/Registro/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/Registro/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/Registro/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/Registro/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/Registro/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/Registro/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/Registro/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,10 +43,12 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\python-django\SVE\templates" />
+      <recent name="C:\python-django\SVE\templates\autenticacion" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -70,5 +88,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/apps/Riesgos/models.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
